@@ -1,3 +1,6 @@
+NAME : KAIF MOHAMED P 
+REG NO : 212222043004
+
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
@@ -216,5 +219,4 @@ END
 
 ## RESULT
 
-Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
-
+Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed 
